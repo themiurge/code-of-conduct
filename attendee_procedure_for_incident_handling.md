@@ -2,7 +2,7 @@ Italian C++ Events Attendee Procedure for Incident Handling
 ===============================================
 
 If you are an attendee of an event organized by the Italian C++ Community and you are being harassed, notice that
-someone else is being harassed, or have any other concerns, please follow do
+someone else is being harassed, or have any other concerns, please do
 the following:
 
 1. **Make sure everyone is physically safe.** If there is a threat to anyone's
